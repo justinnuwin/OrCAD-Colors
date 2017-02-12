@@ -1,0 +1,28 @@
+#  View replacement method:
+#  Complete
+
+flipdesign top
+color -globvis off
+color -vis "BOARD GEOMETRY"
+color -vis "COMPONENT VALUE"
+color -vis "DEVICE TYPE"
+color -vis "DRAWING FORMAT"
+color -vis "DRC ERROR CLASS"
+color -vis "ETCH"
+color -vis "MANUFACTURING"
+color -vis "PACKAGE GEOMETRY"
+color -vis "PACKAGE KEEPIN"
+color -vis "PACKAGE KEEPOUT"
+color -vis "PIN"
+color -vis "REF DES"
+color -vis "ROUTE KEEPIN"
+color -vis "ROUTE KEEPOUT"
+color -vis "TOLERANCE"
+color -vis "USER PART NUMBER"
+color -vis "VIA CLASS"
+color -vis "VIA KEEPOUT"
+color -vis "ANTI ETCH"
+color -vis "BOUNDARY"
+color -vis "CONSTRAINT REGION"
+color -vis "CAVITY"
+color -vis "EMBEDDED GEOMETRY"
